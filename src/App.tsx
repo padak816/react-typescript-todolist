@@ -1,7 +1,8 @@
 import React from "react";
+import TodoListTemplate from "./components/TodoListTemplate";
 
 function App() {
-  return <div>todolist</div>;
+  return <TodoListTemplate />;
 }
 
 export default App;
